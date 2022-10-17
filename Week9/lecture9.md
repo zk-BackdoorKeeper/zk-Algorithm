@@ -1,0 +1,1 @@
+*[👉Lecture9](https://www.notion.so/sureedding/ZK-KZG-Polynomial-Commitments-43a7c763ca1e4b5b93ac94dfb2c84949)*
